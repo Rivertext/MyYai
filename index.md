@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我一定要好好学习！！！！！
 
 You can use the [editor on GitHub](https://github.com/Rivertext/MyYai/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
